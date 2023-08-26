@@ -8,7 +8,7 @@ by Gabriela Copetti
 
 ## **Aim**
 
-The aim of this project is to apply machine learning techniques, including data cleaning and analysis, feature selection, model training, and evaluation, to predict book average ratings on the Goodreads website using the dataset provided in the course.
+The aim of this project is to apply machine learning techniques, including data cleaning and analysis, feature selection, model training and testing, to predict book average ratings on the Goodreads website, using the dataset provided in the course.
 
 ## **Files**
 
@@ -22,7 +22,7 @@ The aim of this project is to apply machine learning techniques, including data 
 
 - books_edited.csv: corrections were made to the original books.csv for it to become readable.
 
-- books_processed.csv: dataset after data analysis, cleaning and preliminary feature selection. This file is produced by the Goodreads_Dataset_Data_Analysis.ipynb notebook and used in the Goodreads_Dataset_Model_and_Evaluation.ipynb.
+- books_processed.csv: dataset after data analysis, cleaning and preliminary feature selection. This file is created in the Goodreads_Dataset_Data_Analysis.ipynb notebook for use in the Goodreads_Dataset_Model_and_Evaluation.ipynb.
 
 
 ## **Installation**
