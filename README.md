@@ -12,7 +12,7 @@ The aim of this project is to apply machine learning techniques, including data 
 
 ## **Files**
 
-- Goodreads_Project_Report.pdf: a report with a summary of the steps taken and the results obtained.
+- **Goodreads_Project_Report.pdf: a report with a summary of the steps taken and the results obtained.**
 
 - Goodreads_Dataset_Data_Analysis.ipynb: Jupyter notebook in which exploratory data analysis was used to summarize main characteristics and to check for patterns within the data. Data cleaning was performed, as well as preliminary feature selection. 
 
@@ -35,7 +35,7 @@ To install the packages, use the command:
 
 If the file is not placed in the current directory, the path needs to be specified like path/to/requirements.txt.
 
-If using an environment in Anaconda, the command
+If using an environment in Anaconda, the command:
 
 **conda install --file requirements.txt**
 
