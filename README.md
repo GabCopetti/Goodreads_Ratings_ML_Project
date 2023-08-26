@@ -1,7 +1,8 @@
 *This project was carried out during the Python Machine Learning Lab course at Data ScienceTech Institute (DSTI), as part of the Applied MSc in Data Science & Artificial Intelligence qualification.*
 ***
-# Goodreads dataset: prediction of book ratings
+# Goodreads Dataset: Book rating prediction
 ***
+
 by Gabriela Copetti
 
 
@@ -10,8 +11,6 @@ by Gabriela Copetti
 The aim of this project is to apply machine learning techniques, including data cleaning and analysis, feature selection, model training, and evaluation, to predict book average ratings at the Goodreads website using the dataset provided in the course.
 
 ## **Files**
-
-All computations were performed using Python 3.9 and Jupyter Notebook 6.5. 
 
 - Goodreads_Project_Report.pdf: a report with a summary of the steps taken and the results obtained.
 
@@ -27,6 +26,8 @@ All computations were performed using Python 3.9 and Jupyter Notebook 6.5.
 
 
 ## **Installation**
+
+All computations were performed using Python 3.9.
 
 To install the packages, use the command:
 
