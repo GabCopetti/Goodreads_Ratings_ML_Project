@@ -1,6 +1,6 @@
 *This project was carried out during the Python Machine Learning Lab course at Data ScienceTech Institute (DSTI), as part of the Applied MSc in Data Science & Artificial Intelligence qualification.*
 ***
-# Prediction of book ratings on Goodreads
+# Goodreads dataset: prediction of book ratings
 ***
 by Gabriela Copetti
 
