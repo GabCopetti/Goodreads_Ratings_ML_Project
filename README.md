@@ -28,11 +28,11 @@ All computations were performed using Python 3.9 and Jupyter Notebook 6.5.
 
 ## **Installation**
 
-Use the command
+To install the packages, use the command:
 
 **pip install -r requirements.txt**
 
-to install the packages. If the file is not placed in the current directory, the path needs to be specified like path/to/requirements.txt.
+If the file is not placed in the current directory, the path needs to be specified like path/to/requirements.txt.
 
 If using an environment in Anaconda, the command
 
