@@ -27,7 +27,7 @@ The aim of this project is to apply machine learning techniques, including data 
 
 ## **Installation**
 
-All computations were performed using Python 3.9.
+All computations were performed using <a href="https://www.python.org/downloads/" target="_blank">Python</a> 3.9 and <a href="https://jupyter.org/install" target="_blank">Jupyter Notebook</a> 6.5.
 
 To install the packages, use the command:
 
