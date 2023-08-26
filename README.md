@@ -1,6 +1,7 @@
 link to Github: https://github.com/GabCopetti/Goodreads_Ratings_ML_Project/tree/main
 
 *This project was carried out during the Python Machine Learning Lab course at Data ScienceTech Institute (DSTI), as part of the Applied MSc in Data Science & Artificial Intelligence qualification.*
+
 ***
 # Goodreads dataset: Book rating prediction
 ***
