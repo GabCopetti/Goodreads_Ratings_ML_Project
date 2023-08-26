@@ -8,7 +8,7 @@ by Gabriela Copetti
 
 ## **Aim**
 
-The aim of this project is to apply machine learning techniques, including data cleaning and analysis, feature selection, model training and testing, to predict book average ratings on the Goodreads website, using the dataset provided in the course.
+The aim of this project is to apply machine learning techniques, including data cleaning and analysis, feature selection, model training and testing, to predict book average ratings on the Goodreads website, using the dataset provided in the course (originally from https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks).
 
 ## **Files**
 
