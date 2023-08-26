@@ -15,15 +15,15 @@ All computations were performed using Python 3.9 and Jupyter Notebook 6.5.
 
 - Goodreads_Project_Report.pdf: a report with a summary of the steps taken and the results obtained.
 
-- Goodreads_Dataset_Data_Analysis.ipynb: Jupyter notebook in which exploratory data analysis was used to summarize main characteristics and to check for patterns within the data. Data cleaning was performed, as well preliminary feature selection. 
+- Goodreads_Dataset_Data_Analysis.ipynb: Jupyter notebook in which exploratory data analysis was used to summarize main characteristics and to check for patterns within the data. Data cleaning was performed, as well as preliminary feature selection. 
 
-- Goodreads_Dataset_Model_and_Evaluation: Jupyter notebook in which four regression algorithms are used to predict the average rating, using different sets of features.
+- Goodreads_Dataset_Model_and_Evaluation.ipynb: Jupyter notebook in which four regression algorithms were trained and tested using different sets of features.
 
 - books.csv: original dataset provided in the course.
 
 - books_edited.csv: corrections were made to the original books.csv for it to become readable.
 
-- books_processed.csv: dataset after data analysis, cleaning and preliminary feature selection. This file is produced by the Goodreads_Dataset_Data_Analysis.ipynb notebook.
+- books_processed.csv: dataset after data analysis, cleaning and preliminary feature selection. This file is produced by the Goodreads_Dataset_Data_Analysis.ipynb notebook and used in the Goodreads_Dataset_Model_and_Evaluation.ipynb.
 
 
 ## **Installation**
