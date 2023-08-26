@@ -15,7 +15,7 @@ All computations were performed using Python 3.9 and Jupyter Notebook 6.5.
 
 - Goodreads_Project_Report.pdf: a report with a summary of the steps taken and the results obtained.
 
-- Goodreads_Dataset_Data_Analysis.ipynb: Jupyter notebook in which exploratory data analysis was used to summarize main characteristics and to check for patterns within the data. Data cleaning was performed, as well preliminary feature selection and engineering. 
+- Goodreads_Dataset_Data_Analysis.ipynb: Jupyter notebook in which exploratory data analysis was used to summarize main characteristics and to check for patterns within the data. Data cleaning was performed, as well preliminary feature selection. 
 
 - Goodreads_Dataset_Model_and_Evaluation: Jupyter notebook in which four regression algorithms are used to predict the average rating, using different sets of features.
 
